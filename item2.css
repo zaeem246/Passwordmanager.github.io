@@ -1,0 +1,36 @@
+.box{
+    width:1400px;
+    height:1900px;
+  }
+  
+  .grey{
+    background:#d3d3d3;
+  }
+  
+  .grad {
+      background: white; /* For browsers that do not support gradients */
+    
+      background: linear-gradient(lemonchiffon, white, white,white); /* Standard syntax */
+  }
+  
+  body {
+    margin-top: 50px;
+  }
+  
+  .biggerText{
+      color: black;
+    font-size:60px;
+    font-family: 'Bungee Shade', cursive;
+  }
+  
+  .slightlyBiggerText{
+    font-size:35px;
+    font-family: 'Permanent Marker', cursive;
+  }
+  
+  .paragraphText{
+      color: black;
+    font-size:22px;
+  }
+  
+  
